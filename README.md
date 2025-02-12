@@ -15,7 +15,7 @@
 
 ### Connect with me 🔗 :
 <br>
-<a href="linkedin.com/in/carlos-mario-patiño-betancur" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-mario-pati%C3%B1o-betancur/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
