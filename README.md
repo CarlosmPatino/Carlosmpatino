@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Me**
   
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering, Data analisys and Machine leaninng**
 
 
 
