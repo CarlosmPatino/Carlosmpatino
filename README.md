@@ -22,22 +22,13 @@
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-<!-- Programming Languages -->
 
 <a href="https://www.python.org/" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
-
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
-
-<!-- Web Development -->
-
-
-<a href="https://airflow.apache.org/" target="_blank">
-  <img alt="ApacheAirflow" src="https://img.shields.io/badge/Apache_Airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black">
 </a>
 
 
@@ -48,26 +39,22 @@
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white">
 </a>
 
-<!-- Mobile Development -->
-<a href="https://reactnative.dev/" target="_blank">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://expo.dev/" target="_blank">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-white?style=for-the-badge&color=blue">
 </a>
 
-<!-- Frontend Frameworks/Libraries -->
-<a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank">
+  <img alt="PowerBi" src="https://img.shields.io/badge/PowerBi-white?style=for-the-badge&color=yellow">
 </a>
 
-<a href="https://material-ui.com/" target="_blank">
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<a href="https://airflow.apache.org/" target="_blank">
+  <img alt="ApacheAirflow" src="https://img.shields.io/badge/Apache_Airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black">
 </a>
 
-<a href="https://getbootstrap.com/" target="_blank">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<a href="https://spark.apache.org/docs/latest/" target="_blank">
+  <img alt="apache Spark" src="https://img.shields.io/badge/Apache_Spark-orange?style=for-the-badge&logo=apachespark&color=white">
 </a>
+
 
 <!-- Database -->
 <a href="https://www.mysql.com/" target="_blank">
@@ -83,4 +70,4 @@
 
 
 ------
-Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
+
