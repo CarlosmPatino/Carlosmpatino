@@ -43,7 +43,7 @@
 
 
 <a href="https://airflow.apache.org/" target="_blank">
-  <img alt="ApacheAirflow" src="https://img.shields.io/badge/Apache_Airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=red">
+  <img alt="ApacheAirflow" src="https://img.shields.io/badge/Apache_Airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black">
 </a>
 <a href="https://expressjs.com/" target="_blank">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
