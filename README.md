@@ -82,21 +82,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 
-<!-- Version Control and Collaboration -->
-<a href="https://github.com/" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<!-- Design Tools -->
-<a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
-
-<!-- Tools and Platforms -->
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
